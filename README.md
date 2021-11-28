@@ -6,13 +6,13 @@
 <h1>Home Mortgage Lending Activities of Banks in Hartford, Connecticut</h1>
 The project uses data visualizatons and econometric models to assess patterns of bank lending in Hartford’s neighborhoods and determine what banks are effective at investing in Hartford’s low income neighborhoods and which are not.
 
-<h2>**Data source:**</h1>
+<h2>Data source:</h1>
 The Home Mortgage Disclosure Act (HMDA) requires many financial institutions to maintain, report, and publicly disclose loan-level information about mortgages. These data help show whether lenders are serving the housing needs of their communities; they give public officials information that helps them make decisions and policies; and they shed light on lending patterns that could be discriminatory. The public data are modified to protect applicant and borrower privacy.
 
 This project uses HDMA record data from  2011 to 2015 for Hartford Metro Area from the Consumer Financial Protection Bureau (CFPB)'s database.
 https://www.consumerfinance.gov/data-research/hmda/
 
-<h2>**Project Overview:**</h1>
+<h2>Project Overview:</h1>
 
 In Spring 2017, I collaborated with the Hartford Community Loan Fund, a non-profit that provide and promote just and affordable financial services that benefit the low-wealth residents of Hartford, through a Data Visualization course at Trinity College. Our project aims to assess patterns of bank lending in Hartford’s neighborhoods in order to determine what banks are effective at investing in Hartford’s low income neighborhoods and which are not. Using public data for the Hartford metro area from the Home Mortgage Disclosure Act, I developed an interactive digital map to visualize loan approval rates for different neighborhoods, creating a broad visual analysis of where banks are located and where loans are frequently approved. See my presentation here: https://docs.google.com/presentation/d/1ksXKv9MIkDANxBIuB_U46Ug0W0_s8O1-ZpwjZXAqyp8/edit?usp=sharing
 
