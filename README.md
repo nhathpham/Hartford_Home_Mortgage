@@ -18,3 +18,7 @@ In Spring 2017, I collaborated with the Hartford Community Loan Fund, a non-prof
 
 Upon completion, I was concerned that visual statistics could be misleading with small sample data. The following summer, I worked with Economics Professor Diane Zannoni to expand my original analysis. I integrated different data sources to account for a comprehensive set of home loan applicants’ socio-economic factors. With the collected data, I performed econometric analyses at both neighborhood and individual levels, which concluded that discrimination was not identifiable in the given data. My refined analysis also pointed the client to previously overlooked areas such as the scarcity of applications in low-income areas and applicants’ preference for small lenders over major banks. These findings directly supported my clients’ work in improving equitable housing in the city and encouraging banks’ investments in underserved areas.
 
+Results poster: ![Poster_FINAL_4_30 (1)](https://user-images.githubusercontent.com/87089936/143785879-316e49b8-0f24-4d26-b871-7efc04813f25.jpg)
+
+
+
