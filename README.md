@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/87089936/143729359-1e326d45-dcbb-47d1-9f2c-86f9d62dfbe1.png)
 
-#**Home Mortgage Lending Activities of Banks in Hartford, Connecticut**
+#Home Mortgage Lending Activities of Banks in Hartford, Connecticut
 The project uses data visualizatons and econometric models to assess patterns of bank lending in Hartford’s neighborhoods and determine what banks are effective at investing in Hartford’s low income neighborhoods and which are not.
 
 ##**Data source:**
