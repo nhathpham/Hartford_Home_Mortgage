@@ -1,7 +1,8 @@
 
 <!-- Add banner here -->
 
-![](./demo/images/preview.png)
+![image](https://user-images.githubusercontent.com/87089936/143729359-1e326d45-dcbb-47d1-9f2c-86f9d62dfbe1.png)
+
 
 
 # Hartford_Home_Mortgage
